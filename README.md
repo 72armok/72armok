@@ -1,16 +1,14 @@
-### Hi there 👋
+# WELCOME
+```diff
++>>> bio
+!i am a computer programmer. 
 
-<!--
-**72armok/72armok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++>>> my experience
+!i have most of my experience in C++ and C, but i also do python and very rarely javascript code. i also can create websites.
 
-Here are some ideas to get you started:
++>>> my projects:
+!my projects are pinned in my profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++>>> my website
+!72armok.github.io
+```
